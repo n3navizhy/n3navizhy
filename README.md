@@ -14,7 +14,7 @@
 
 Проекты Яндекс практикума :
 1) https://github.com/n3navizhy/yacut - сервис коротких ссылок (готов)
-2) https://github.com/n3navizhy/bs4_parser_pep  и https://github.com/n3navizhy/scrapy_parser_pep - парсеры доки Python 
+2) https://github.com/n3navizhy/bs4_parser_pep (готов) и https://github.com/n3navizhy/scrapy_parser_pep (готов) - парсеры доки Python 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
