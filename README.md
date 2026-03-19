@@ -45,11 +45,13 @@
 
 ## 🚀 В поиске / Looking for
 
-🇷🇺 Ищу возможность вернуться к разработке. Готов учиться, расти и впитывать новые знания как губка!  
-🇬🇧 Looking for an opportunity to return to development. Ready to learn, grow, and absorb new knowledge like a sponge!
+🇷🇺 Ищу возможность вернуться к разработке. Готов учиться, расти и впитывать новые знания!  
+🇬🇧 Looking for an opportunity to return to development. Ready to learn, grow, and absorb new knowledge!
 
 ---
 
 ## 📫 Контакты / Contacts
 
 - GitHub: [n3navizhy](https://github.com/n3navizhy)
+- Telegram: [n3nabizhy](http://t.me/n3navizhy)
+- E-mail: [trutnev-a.e@yandex.ru](trutnev-a.e@yandex.ru)
